@@ -31,7 +31,7 @@
     "redux-thunk": "^2.3.0",
     "request": "^2.88.0",
     "sharp": "^0.25.2",
-    "validator": "^12.2.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "chalk": "^3.0.0",
